@@ -10,3 +10,5 @@
 | Nov 2 | Backlog of 8 work items, owners and priorities | Proposed by EM, agreed by team | Board had to be ready before the cycle could start |
 | Nov 2 | Daily updates are async comments on pinned issue #9, citing issue numbers | Proposed by EM, agreed by team | Replace long status meetings; tie updates to real work |
 | Nov 2 | Every PR logged with opened / first review / merged times | Proposed by EM, agreed by team | Gives evidence for workflow observations and the experiment |
+| Nov 3 | All Nov 2 decisions confirmed | Team, 1:00pm sync call | Team reviewed each row and agreed |
+| Nov 3 | Experiment rule: whoever opens a PR posts its number on #9 and @mentions the reviewer; reviewer gives a first review within 30 min during work blocks | Proposed by EM, agreed by team, 1:00pm sync call | PR #11 waited 200 min because nobody knew it was open; other waits were rising (22, 43, 57 min) |
