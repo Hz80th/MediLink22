@@ -1,4 +1,4 @@
-# Risk Register: MediLink Release (Part E)
+# Risk Register: MediLink Release
 
 **Scope:** Risks identified from the scenario and the team's simulated workflow on Nov 3, 2026.
 
