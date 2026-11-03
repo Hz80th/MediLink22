@@ -49,6 +49,7 @@ For the simulation, an appointment has `id`, `start_time` and `status` (`booked`
 - [ ] Review comments resolved
 - [ ] Documentation self-checked
 - [ ] Verification recorded before merge
+- [ ] For cancellation-related work, verify the applicable test cases in `docs/tests/cancellation-tests.md` and record the results before marking the issue Done.
 
 ## Open questions / limits
 
