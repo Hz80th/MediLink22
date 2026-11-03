@@ -9,3 +9,4 @@ A work item is Done only when every box below is ticked. Copy this checklist int
 - [ ] Author self-checked the artifact (mock data valid, examples consistent, no TODOs left)
 - [ ] Related documentation updated (README, docs/ or API notes)
 - [ ] Verification step done by the owner after approval, before merge
+- [ ] For cancellation-related work, verify the applicable test cases in `docs/tests/cancellation-tests.md` and record the results before marking Done.
